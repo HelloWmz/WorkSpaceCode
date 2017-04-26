@@ -15,6 +15,7 @@ class RecylerAdapter extends RecyclerView.Adapter {
 
     private Context context;
 
+
     RecylerAdapter(Context context) {
         this.context = context;
     }
